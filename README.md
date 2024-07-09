@@ -1,0 +1,1 @@
+Example of app created for a CRUD app in fast API
